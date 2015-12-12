@@ -3,10 +3,10 @@ This repository contains simple implementations of Tic Tac Toe game in various f
 
 ## TicTacToe-PvC.py 
 This is a Python implementation of a simple Player vs Computer Tic Tac Toe game.
-In this implementation the computer is not intelligent and ramdomely selects its moves.
+In this implementation the computer is not intelligent and randomely selects its moves.
 
 ## TicTacToe-PvC.c 
 This is a C implementation of a simple Player vs Computer Tic Tac Toe game.
-In this implementation the computer is not imtelligent and randomely selects its moves.
+In this implementation the computer is not intelligent and randomely selects its moves.
 
 
